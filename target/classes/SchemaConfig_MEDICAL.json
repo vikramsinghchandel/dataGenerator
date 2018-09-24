@@ -1,0 +1,26 @@
+{
+  "columns": {
+    "patientId": "INTEGER",
+    "firstName": "FIRST_NAME",
+    "lastName": "LAST_NAME",
+    "gender": "GENDER",
+    "age": "AGE",
+    "disease": "DISEASE",
+    "hospital": "HOSPITAL",
+    "symptoms": "SYMPTOMS",
+    "medicinePrescribed": "MEDICINE",
+    "phoneNumber": "PHONE_NUMBER",
+    "address": "ADDRESS",
+    "dateOfBirth": "DATE",
+    "ssn": "SSN",
+    "email": "E_MAIL"
+  },
+  "overlapFactor": 50,
+  "numberOfRows": 5000,
+  "valueSeparator": "\t",
+  "lineSeparator": "\n",
+  "outputPath": "/home/waterline/d/workspace_intelliJ/corejava/wldDataGenerator/src/main/resources/",
+  "maxFileSizeInBytes": 10000000,
+  "numberOfParallelThreads": 1,
+  "threadName": null
+}

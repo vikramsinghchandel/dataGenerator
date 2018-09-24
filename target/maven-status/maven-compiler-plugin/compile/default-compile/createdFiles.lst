@@ -1,0 +1,7 @@
+com/vsc/dataGenerator/util/SchemaConfigGenerator.class
+com/vsc/dataGenerator/model/ColumnType.class
+com/vsc/dataGenerator/generator/RandomValueGenerator.class
+com/vsc/dataGenerator/generator/RandomValueGenerator$1.class
+com/vsc/dataGenerator/generator/Generator.class
+com/vsc/dataGenerator/model/SchemaConfig.class
+com/vsc/dataGenerator/main/Main.class

@@ -1,0 +1,25 @@
+{
+  "columns": {
+    "firstName": "FIRST_NAME",
+    "lastName": "LAST_NAME",
+    "gender": "GENDER",
+    "age": "AGE",
+    "salary": "INTEGER",
+    "phoneNumber": "PHONE_NUMBER",
+    "address": "ADDRESS",
+    "dateOfBirth": "DATE",
+    "yearOfBirth": "YEAR",
+    "ssn": "SSN",
+    "bankBalance": "DOUBLE",
+    "creditCardNumber": "CREDIT_CARD_NUMBER",
+    "email": "E_MAIL"
+  },
+  "numberOfRows": 50000,
+  "overlapFactor": 25,
+  "valueSeparator": "\t",
+  "lineSeparator": "\n",
+  "outputPath": "/home/waterline/d/workspace_intelliJ/corejava/wldDataGenerator/src/main/resources/",
+  "maxFileSizeInBytes": 20000000,
+  "numberOfParallelThreads": 5,
+  "threadName": null
+}
